@@ -9,7 +9,7 @@ Pre-requisites:\
 Step 1:\
 In order to Open the trained model(.sav file),use the following instructions:\
 &nbsp;    import pickle\
-&nbsp;    pickle.load(open("<file-directory>","rb") #here for file path we need to change backward slash as forward slash\
+&nbsp;    pickle.load(open("<filedirectory>","rb") #here for file path we need to change backward slash as forward slash\
 &nbsp;    #because the code is dumped in pickle file in binary format\
 Step 2:\
 Streamlit installation:\
@@ -17,8 +17,8 @@ Run the following commands in terminal one by one\
 &nbsp;  pip install streamlit\
 &nbsp;  streamlit hello\
 Step 3:\
-After streamlit installation for run DiabetesPredictionWebApp,run the following command in terminal\ 
-&nbsp;   streamlit run <file-directory>\
+After streamlit installation for run DiabetesPredictionWebApp,run the following command in terminal\
+&nbsp;   streamlit run <filedirectory>
 
   
                
