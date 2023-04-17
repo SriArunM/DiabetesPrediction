@@ -1,10 +1,10 @@
 # DiabetesPrediction
-In this project, we have developed a predictive model for diabetes using the Scikit-Learn Python library. The model uses data on various factors, such as age, body mass index (BMI), blood pressure, and glucose level, to predict whether a person has diabetic or not.
-This model achieved an accuracy of 76% on the test set, indicating that it is reasonably good at predicting diabetes.
-Pre-requisites:
-   pickle file(pip install pickle-mixin)
-   numpy
-   streamlit for deployment(pip install streamlit)
+In this project, we have developed a predictive model for diabetes using the Scikit-Learn Python library. The model uses data on various factors, such as age, body mass index (BMI), blood pressure, and glucose level, to predict whether a person has diabetic or not.\
+This model achieved an accuracy of 76% on the test set, indicating that it is reasonably good at predicting diabetes.\
+Pre-requisites:\
+   pickle file(pip install pickle-mixin)\
+   numpy\
+   streamlit for deployment(pip install streamlit)\
 Step 1:   
 In order to Open the trained model(.sav file),use the following instructions:
     import pickle
