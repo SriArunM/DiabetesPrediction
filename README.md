@@ -20,7 +20,5 @@ Run the following commands in terminal one by one\
 Step 3:\
 After streamlit installation for run DiabetesPredictionWebApp,run the following command in terminal\
 &nbsp;   streamlit run filedirectory(file path)
-##LICENSE
-https://github.com/SriArunM/DiabetesPrediction/blob/badb1fbd8e61753083bc6e5406eec790f20993a3/LICENSE
-  
+
                
